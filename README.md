@@ -8,8 +8,6 @@
         href="https://portfolio.thecorps-cloud.it"><img src="https://img.shields.io/badge/.%2Fportfolio-0E1018?style=for-the-badge&logo=googlechrome&logoColor=8B7CF6" alt="Portfolio" /></a>
     <a
         href="https://www.linkedin.com/in/gabriele-privitera-5a374226a"><img src="https://img.shields.io/badge/.%2Flinkedin-0E1018?style=for-the-badge&logo=linkedin&logoColor=8B7CF6" alt="LinkedIn" /></a>
-    <a
-        href="mailto:gabriele.pr.01@gmail.com"><img src="https://img.shields.io/badge/.%2Fmail-0E1018?style=for-the-badge&logo=gmail&logoColor=8B7CF6" alt="Email" /></a>
 </p> <br /> <!-- About me -->
 <h2>👨‍💻 <code>$ whoami</code></h2>
 <table>
